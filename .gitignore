@@ -1,3 +1,33 @@
 _site/
 push.sh
 .DS_Store
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Ruby/Bundler
+.bundle/
+vendor/
+*.gem
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Editors/OS
+Thumbs.db
+.idea/
+.vscode/
+
+# Python (for google_scholar_crawler, etc.)
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Misc
+*.swp
+*.swo

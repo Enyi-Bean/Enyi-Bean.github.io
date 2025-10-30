@@ -17,42 +17,87 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+👋 Hi! I am **Enyi Wang** (<span style="font-family:'KaiTi','STKaiti','Kaiti SC','DFKai-SB','AR PL UKai CN',serif; font-weight:bold; font-size:1.15em;">王恩驿</span> in Chinese). I am currently an **MRes (Master of Research)** student at **Imperial College London**, affiliated with the **[Hamlyn Centre](https://www.imperial.ac.uk/hamlyn-centre/)** and **[I-X](https://ix.imperial.ac.uk/)**. I am supervised by **[Prof. Dandan Zhang](https://profiles.imperial.ac.uk/d.zhang17)** at the **[Multi-Scale Embodied Intelligence Lab](https://www.intelligentrobotics-acrossscales.com/)**.  
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+Before that, I received my **B.Eng. degree** from **Fuzhou University** (**211 Project, China**) in 2024, where I conducted research on continuum surgical robots supervised by **[Prof. Zhen Deng](https://scholar.google.com/citations?user=rbUYdmoAAAAJ&hl=zh-CN&oi=ao)**
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+
+
+## 🔬 Research Interests
+Currently I am interested in **robotic manipulation**, **tactile sensing**, **imitation learning**, and **vision-language-action (VLA)** systems, aiming to advance **robot learning** through multi-modal perception and generalizable policy learning. My goal is to develop intelligent embodied agents that can perceive, reason, and act effectively like humans in the future.
+
+# 📢 News
+- *2025.10*: &nbsp;🎉🎉 My MRes thesis "Multimodal Representation Learning for Multi-Robot Collaborative Manipulation" received **Distinction** at Imperial College London!
+- *2025.06*: &nbsp;🎉🎉 Our Paper *“Estimating Continuum Robot Shape under External Loading using Spatiotemporal Neural Networks”* was **accepted to IROS 2025** (from my final year project during undergraduate)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image' style="box-shadow:none !important; -webkit-box-shadow:none !important; background:transparent;">
+<div style="box-shadow:none !important; -webkit-box-shadow:none !important; background:transparent;">
+<img src='images/ADM-DP.png' alt="paper-image" width="100%" style="box-shadow:none !important; -webkit-box-shadow:none !important; border:none;">
+</div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**ADM-DP**: Adaptive Dynamic Modality Diffusion Policy through Vision-Tactile-Graph Fusion for Multi-Agent Manipulation]
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Enyi Wang**, Wen Fan, Dandan Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Under View**]
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'><div class='paper-box-image' style="box-shadow:none !important; -webkit-box-shadow:none !important; background:transparent;">
+<div style="box-shadow:none !important; -webkit-box-shadow:none !important; background:transparent;">
+<img src='images/IROS_2025.png' alt="sym" width="100%" style="box-shadow:none !important; -webkit-box-shadow:none !important; border:none;">
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[Estimating Continuum Robot Shape under External Loading using Spatiotemporal Neural Networks](https://arxiv.org/abs/2510.22339)
+
+**Enyi Wang**, Zhen Deng*, Chuanchuan Pan, Bingwei He, Jianwei Zhang
+
+[**IROS 2025**]
+</div>
+</div>
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.07* Excellent trainee, Summer Camp of the Chinese University of Hong Kong, Shenzhen
+- *2022-2023* 💰 Leader of a National-level Student Research Training Program (SRTP) team, funded with **¥20,000 RMB**.
+- *2022.09 - 2023.09* Deputy Lead of Choir, Chorus of Fuzhou University
+- *2023.03* H Award, MCM/ICM
+- *2022 & 2024* Comprehensive Award Scholarship, Fuzhou University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<div class="edu-item" style="display:flex; align-items:center; gap:16px; margin:18px 0;">
+  <div style="width:240px; display:flex; align-items:center; justify-content:flex-start; margin-right:8px;">
+    <img src='images/ic_logo.jpg' alt="Imperial College London" style="width:240px; max-width:100%; height:auto;">
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.05em;">Imperial College London (UK)</div>
+    <div>MRes (Master of Research), 2024 - Currently</div>
+    <div style="color:#666;">Supervisor: Prof. Dandan Zhang</div>
+  </div>
+  
+</div>
 
-# 💬 Invited Talks
+<div class="edu-item" style="display:flex; align-items:center; gap:16px; margin:18px 0;">
+  <div style="width:240px; display:flex; align-items:center; justify-content:center; margin-right:8px;">
+    <img src='images/fzu_logo.jpg' alt="Fuzhou University" style="width:120px; max-width:100%; height:auto;">
+  </div>
+  <div>
+    <div style="font-weight:600; font-size:1.05em;">Fuzhou University (China)</div>
+    <div>B.Eng., 2020 - 2024</div>
+    <div style="color:#666;">GPA：3.73/4.0</div>
+    <div style="color:#666;">Supervisor: Prof. Zhen Deng</div>
+  </div>
+</div>
+
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+ - *2023.03 - 2023.06*, Shanghai Jiao Tong University × Drivedream Technology (industry–academia collaboration), Shanghai, China.<br>
+   Collaborated to develop an industrial six-axis robotic-arm milling (CNC) system.

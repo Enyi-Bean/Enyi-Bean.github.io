@@ -31,6 +31,12 @@
       {% if author.email %}
         <li><a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Email</a></li>
       {% endif %}
+      {% if author["Affiliation Email"] %}
+        <li><a href="mailto:{{ author["Affiliation Email"] }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Affiliation Email</a></li>
+      {% endif %}
+      {% if author.Gmail %}
+        <li><a href="mailto:{{ author.Gmail }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i> Gmail</a></li>
+      {% endif %}
       {% if author.keybase %}
         <li><a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i> Keybase</a></li>
       {% endif %}
@@ -57,6 +63,9 @@
       {% endif %}
       {% if author.instagram %}
         <li><a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+      {% endif %}
+      {% if author.RedNote %}
+        <li><a href="{{ author.RedNote }}"><i class="fas fa-fw fa-book" aria-hidden="true"></i> RedNote</a></li>
       {% endif %}
       {% if author.tumblr %}
         <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr-square" aria-hidden="true"></i> Tumblr</a></li>
@@ -126,6 +135,12 @@
       {% if author.email %}
         <a href="mailto:{{ author.email }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
       {% endif %}
+      {% if author["Affiliation Email"] %}
+        <a href="mailto:{{ author["Affiliation Email"] }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.Gmail %}
+        <a href="mailto:{{ author.Gmail }}"><i class="fas fa-fw fa-envelope" aria-hidden="true"></i></a>
+      {% endif %}
       {% if author.keybase %}
         <a href="https://keybase.io/{{ author.keybase }}"><i class="fas fa-fw fa-key" aria-hidden="true"></i></a>
       {% endif %}
@@ -152,6 +167,9 @@
       {% endif %}
       {% if author.instagram %}
         <a href="https://instagram.com/{{ author.instagram }}"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if author.RedNote %}
+        <a href="{{ author.RedNote }}"><i class="fas fa-fw fa-book" aria-hidden="true"></i></a>
       {% endif %}
       {% if author.tumblr %}
         <a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr-square" aria-hidden="true"></i></a>
