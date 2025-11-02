@@ -72,7 +72,7 @@ Currently I am interested in **robotic manipulation**, **tactile sensing**, **im
 # 📖 Educations
 <div class="edu-item" style="display:flex; align-items:center; gap:16px; margin:18px 0;">
   <div style="width:240px; display:flex; align-items:center; justify-content:flex-start; margin-right:8px;">
-    <img src='images/ic_logo.jpg' alt="Imperial College London" style="width:240px; max-width:100%; height:auto;">
+    <img src='images/ic_logo.png' alt="Imperial College London" style="width:240px; max-width:100%; height:auto; margin-left:6px;">
   </div>
   <div>
     <div style="font-weight:600; font-size:1.05em;">Imperial College London (UK)</div>
@@ -84,7 +84,7 @@ Currently I am interested in **robotic manipulation**, **tactile sensing**, **im
 
 <div class="edu-item" style="display:flex; align-items:center; gap:16px; margin:18px 0;">
   <div style="width:240px; display:flex; align-items:center; justify-content:center; margin-right:8px;">
-    <img src='images/fzu_logo.jpg' alt="Fuzhou University" style="width:120px; max-width:100%; height:auto;">
+    <img src='images/fzu_logo.png' alt="Fuzhou University" style="width:220px; max-width:100%; height:auto;">
   </div>
   <div>
     <div style="font-weight:600; font-size:1.05em;">Fuzhou University (China)</div>
