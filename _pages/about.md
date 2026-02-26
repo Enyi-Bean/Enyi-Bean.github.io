@@ -29,6 +29,7 @@ Before that, I received my **B.Eng. degree** from **Fuzhou University** (**211 P
 Currently I am interested in **robotic manipulation**, **tactile sensing**, **imitation learning**, and **vision-language-action (VLA)** systems, aiming to advance **robot learning** through multi-modal perception and generalizable policy learning. My goal is to develop intelligent embodied agents that can perceive, reason, and act effectively like humans in the future.
 
 # 📢 News
+- *2026.02*: &nbsp;🎉🎉 Our paper *“ADM-DP: Adaptive Dynamic Modality Diffusion Policy through Vision-Tactile-Graph Fusion for Multi-Agent Manipulation”* was **accepted to ICRA 2026**!
 - *2025.10*: &nbsp;🎉🎉 My MRes thesis "Multimodal Representation Learning for Multi-Robot Collaborative Manipulation" received **Distinction** at Imperial College London!
 - *2025.06*: &nbsp;🎉🎉 Our Paper *“Estimating Continuum Robot Shape under External Loading using Spatiotemporal Neural Networks”* was **accepted to IROS 2025** (from my final year project during undergraduate)
 
@@ -44,7 +45,7 @@ Currently I am interested in **robotic manipulation**, **tactile sensing**, **im
 
 **Enyi Wang**, Wen Fan, Dandan Zhang
 
-[**Under View**]
+[**ICRA 2026**]
 </div>
 </div>
 
