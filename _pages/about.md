@@ -41,7 +41,7 @@ Currently I am interested in **robotic manipulation**, **tactile sensing**, **im
 </div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ADM-DP**: Adaptive Dynamic Modality Diffusion Policy through Vision-Tactile-Graph Fusion for Multi-Agent Manipulation](https://arxiv.org/abs/2602.21622)
+[ADM-DP: Adaptive Dynamic Modality Diffusion Policy through Vision-Tactile-Graph Fusion for Multi-Agent Manipulation](https://arxiv.org/abs/2602.21622)
 
 **Enyi Wang**, Wen Fan, Dandan Zhang
 
