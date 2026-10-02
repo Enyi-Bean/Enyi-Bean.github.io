@@ -51,6 +51,18 @@ Currently I am interested in **robotic manipulation**, **tactile sensing**, **im
 
 <div class='paper-box'><div class='paper-box-image' style="box-shadow:none !important; -webkit-box-shadow:none !important; background:transparent;">
 <div style="box-shadow:none !important; -webkit-box-shadow:none !important; background:transparent;">
+<img src='images/ST-WAM.png' alt="ST-WAM model architecture and current-anchored intent retrieval" width="100%" style="box-shadow:none !important; -webkit-box-shadow:none !important; border:none;">
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts](https://arxiv.org/abs/2607.28993)
+
+[**arXiv 2026**]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="box-shadow:none !important; -webkit-box-shadow:none !important; background:transparent;">
+<div style="box-shadow:none !important; -webkit-box-shadow:none !important; background:transparent;">
 <img src='images/ADM-DP.png' alt="paper-image" width="100%" style="box-shadow:none !important; -webkit-box-shadow:none !important; border:none;">
 </div></div>
 <div class='paper-box-text' markdown="1">
