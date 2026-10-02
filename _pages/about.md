@@ -126,6 +126,6 @@ Currently I am interested in **robotic manipulation**, **tactile sensing**, **im
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
- - *2026.01 - Present*, **Institute for AI Industry Research (AIR), Tsinghua University × TARS**.<br>
+ - *2026.01 - Present*, **Institute for AI Industry Research (AIR), Tsinghua University × TARS Robotics**.<br>
    Conducting research on tactile world action models for robotic manipulation.<br>
    Mentor: [Yan Wang](https://scholar.google.com/citations?hl=en&user=QOZnsYYAAAAJ&view_op=list_works&sortby=pubdate).
