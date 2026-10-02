@@ -37,6 +37,20 @@ Currently I am interested in **robotic manipulation**, **tactile sensing**, **im
 
 <div class='paper-box'><div class='paper-box-image' style="box-shadow:none !important; -webkit-box-shadow:none !important; background:transparent;">
 <div style="box-shadow:none !important; -webkit-box-shadow:none !important; background:transparent;">
+<img src='images/TacDyn-WAM.png' alt="TacDyn-WAM model framework" width="100%" style="box-shadow:none !important; -webkit-box-shadow:none !important; border:none;">
+</div></div>
+<div class='paper-box-text' markdown="1">
+
+[TacDyn-WAM: Learning Implicit Tactile Dynamics in a Heterogeneous Visuo-Tactile World Action Model](https://arxiv.org/abs/2610.00638)
+
+**Enyi Wang**, Mingxin Wang, Quan Shi, Hetian Guo, Hongyu Wang, Xi Wang, Bin Qian, Yupeng Zheng, Wenxuan Song, Houde Liu, Yong Xu, Cheng Chi, Wenchao Ding, Yilun Chen, Yan Wang
+
+[**arXiv 2026**]
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image' style="box-shadow:none !important; -webkit-box-shadow:none !important; background:transparent;">
+<div style="box-shadow:none !important; -webkit-box-shadow:none !important; background:transparent;">
 <img src='images/ADM-DP.png' alt="paper-image" width="100%" style="box-shadow:none !important; -webkit-box-shadow:none !important; border:none;">
 </div></div>
 <div class='paper-box-text' markdown="1">
