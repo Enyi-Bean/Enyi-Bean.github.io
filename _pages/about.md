@@ -45,7 +45,7 @@ Currently I am interested in **robotic manipulation**, **tactile sensing**, **im
 
 **Enyi Wang**, Mingxin Wang, Quan Shi, Hetian Guo, Hongyu Wang, Xi Wang, Bin Qian, Yupeng Zheng, Wenxuan Song, Houde Liu, Yong Xu, Cheng Chi, Wenchao Ding, Yilun Chen, Yan Wang
 
-[**arXiv 2026**]
+[**Under Review**]
 </div>
 </div>
 
