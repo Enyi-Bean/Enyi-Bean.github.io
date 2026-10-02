@@ -57,7 +57,7 @@ Currently I am interested in **robotic manipulation**, **tactile sensing**, **im
 
 [ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts](https://arxiv.org/abs/2607.28993)
 
-[**arXiv 2026**]
+[**Under Review**]
 </div>
 </div>
 
