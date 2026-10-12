@@ -89,6 +89,23 @@ Currently I am interested in **robotic manipulation**, **tactile sensing**, **im
 </div>
 </div>
 
+# 🤝 Collaborative Projects
+
+<div class='paper-box'><div class='paper-box-image' style="box-shadow:none !important; -webkit-box-shadow:none !important; background:transparent;">
+<a href="https://open-x-tactile.github.io/">
+<img src='images/Open-X-Tactile.png' alt="Open-X-Tactile website overview" width="100%" loading="lazy" style="box-shadow:none !important; -webkit-box-shadow:none !important; border:none;">
+</a></div>
+<div class='paper-box-text' markdown="1">
+
+[Open-X-Tactile: Advancing Generalist Tactile Policy through a Unified Open Data Ecosystem](https://open-x-tactile.github.io/)
+
+[**Website (Work in Progress)**](https://open-x-tactile.github.io/)
+
+Open-X-Tactile (OXT) is a community-scale tactile dataset initiative for cross-sensor, cross-platform robot learning. It brings together tactile datasets from different institutions and sensing setups under a shared standard, making it easier to explore existing sources and contribute new data to a growing open ecosystem.
+
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2023.07* Excellent trainee, Summer Camp of the Chinese University of Hong Kong, Shenzhen
 - *2022-2023* 💰 Leader of a National-level Student Research Training Program (SRTP) team, funded with **¥20,000 RMB**.

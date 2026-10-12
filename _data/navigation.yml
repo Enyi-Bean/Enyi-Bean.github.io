@@ -9,6 +9,9 @@ main:
   - title: "Publications"
     url: "/#-publications"
 
+  - title: "Collaborative Projects"
+    url: "/#-collaborative-projects"
+
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
