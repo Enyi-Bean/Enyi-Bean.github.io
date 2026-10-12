@@ -92,16 +92,16 @@ Currently I am interested in **robotic manipulation**, **tactile sensing**, **im
 # 🤝 Collaborative Projects
 
 <div class='paper-box'><div class='paper-box-image' style="box-shadow:none !important; -webkit-box-shadow:none !important; background:transparent;">
-<a href="https://open-x-tactile.github.io/">
-<img src='images/Open-X-Tactile.png' alt="Open-X-Tactile website overview" width="100%" loading="lazy" style="box-shadow:none !important; -webkit-box-shadow:none !important; border:none;">
+<a href="https://open-x-tactile.github.io/" style="display:block; width:85%; max-width:320px;">
+<img src='images/Open-X-Tactile.png' alt="Open-X-Tactile website overview" width="100%" loading="lazy" style="max-width:100%; height:auto; box-shadow:none !important; -webkit-box-shadow:none !important; border:none;">
 </a></div>
 <div class='paper-box-text' markdown="1">
 
 [Open-X-Tactile: Advancing Generalist Tactile Policy through a Unified Open Data Ecosystem](https://open-x-tactile.github.io/)
 
-[**Website (Work in Progress)**](https://open-x-tactile.github.io/)
+<a href="https://open-x-tactile.github.io/" style="color:#007bff; text-decoration:none;"><strong>🌐 Website</strong></a> <strong style="color:#ff0000;">(Work in Progress)</strong>
 
-Open-X-Tactile (OXT) is a community-scale tactile dataset initiative for cross-sensor, cross-platform robot learning. It brings together tactile datasets from different institutions and sensing setups under a shared standard, making it easier to explore existing sources and contribute new data to a growing open ecosystem.
+Open-X-Tactile (OXT) unifies community-contributed tactile datasets under a shared standard for cross-sensor, cross-platform robot learning, making it easier to explore and contribute data.
 
 </div>
 </div>
