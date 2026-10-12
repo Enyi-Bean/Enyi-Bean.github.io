@@ -92,8 +92,8 @@ Currently I am interested in **robotic manipulation**, **tactile sensing**, **im
 # 🤝 Collaborative Projects
 
 <div class='paper-box'><div class='paper-box-image' style="box-shadow:none !important; -webkit-box-shadow:none !important; background:transparent;">
-<a href="https://open-x-tactile.github.io/" style="display:block; width:95%; max-width:360px;">
-<img src='images/Open-X-Tactile.png' alt="Open-X-Tactile website overview" width="100%" loading="lazy" style="max-width:100%; height:auto; box-shadow:none !important; -webkit-box-shadow:none !important; border:none;">
+<a href="https://open-x-tactile.github.io/" style="display:block; width:100%; max-width:400px;">
+<img src='images/Open-X-Tactile.png' alt="Open-X-Tactile website overview" width="100%" loading="lazy" style="max-width:100%; height:auto; aspect-ratio:16 / 9; object-fit:cover; object-position:center; box-shadow:none !important; -webkit-box-shadow:none !important; border:none;">
 </a></div>
 <div class='paper-box-text' markdown="1">
 
