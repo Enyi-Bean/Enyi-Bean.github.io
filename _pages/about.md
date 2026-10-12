@@ -108,9 +108,8 @@ Open-X-Tactile (OXT) is a community-scale tactile dataset initiative for cross-s
 </div>
 
 # 🎖 Honors and Awards
-- *2023.07* Excellent trainee, Summer Camp of the Chinese University of Hong Kong, Shenzhen
+- *2026* Awarded an **MRes degree with Distinction**, Imperial College London.
 - *2022-2023* 💰 Leader of a National-level Student Research Training Program (SRTP) team, funded with **¥20,000 RMB**.
-- *2022.09 - 2023.09* Deputy Lead of Choir, Chorus of Fuzhou University
 - *2023.03* M Award, MCM/ICM
 - *2022 & 2024* Comprehensive Award Scholarship, Fuzhou University
 
